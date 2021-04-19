@@ -1,3 +1,0 @@
-1.Through command line arguement input a string consisting of 5 ors.
-2.Through command line arguement find the average of 5 integers.
-3.Using readline method perform various arithmatic operations.

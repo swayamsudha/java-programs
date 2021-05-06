@@ -20,9 +20,9 @@ class Student_A implements Marks
     
     Student_A(float eng, float math, float evs) 
 	{
-        this.eng = eng;
+        this.eng  = eng;
         this.math = math;
-        this.evs = evs;
+        this.evs  = evs;
     }
 
     public float getPercentage() 
@@ -40,10 +40,10 @@ class Student_B implements Marks
 
     Student_B(float eng, float math, float evs, float cs) 
 	{
-        this.eng = eng;
+        this.eng  = eng;
         this.math = math;
-        this.evs = evs;
-        this.cs = cs;
+        this.evs  = evs;
+        this.cs   = cs;
     }
 
     public float getPercentage() 
@@ -52,7 +52,7 @@ class Student_B implements Marks
     }    
 }
 
-public class Percentage_Student_Ass7 
+class Percentage_Student_Ass7 
 {
     public static void main(String[] args) 
 	{

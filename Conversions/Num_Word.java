@@ -8,9 +8,7 @@ class Num_Word
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the num:");
 		num = sc.nextInt();
-		//ch = sc.nextInt();
-		//for(i=0;i>=0;i++)
-		//
+		
 		if(num >=0 && num <10)
 		{
 		switch(num)
